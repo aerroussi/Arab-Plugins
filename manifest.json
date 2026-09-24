@@ -1,11 +1,11 @@
 {
-  "name": "3rabi",
+  "name": "Arabic",
   "version": "1.0.0",
   "scrapers": [
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/3isk.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "3isk",
         "internalName": "3isk",
         "authors": [
@@ -26,7 +26,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aflaam.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Aflaam",
         "internalName": "Aflaam",
         "authors": [
@@ -47,7 +47,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aia2tv 2.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "Asia2tv 2",
         "internalName": "Aia2tv 2",
         "authors": [
@@ -69,7 +69,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Akwam.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "Akwam",
         "internalName": "Akwam",
         "authors": [
@@ -90,7 +90,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Alooytv.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Alooytv",
         "internalName": "Alooytv",
         "authors": [
@@ -111,7 +111,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anim3rb.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Anime3rb",
         "internalName": "Anim3rb",
         "authors": [
@@ -132,7 +132,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime-Phoenix.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Anime-Phoenix",
         "internalName": "Anime-Phoenix",
         "authors": [
@@ -154,7 +154,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime4up.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Anime4up",
         "internalName": "Anime4up",
         "authors": [
@@ -176,7 +176,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animerco.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "Animerco",
         "internalName": "Animerco",
         "authors": [
@@ -197,7 +197,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/AnimeRift.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "AnimeRift",
         "internalName": "AnimeRift",
         "authors": [
@@ -219,7 +219,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animewitcher.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "AnimeWitcher",
         "internalName": "Animewitcher",
         "authors": [
@@ -239,7 +239,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Bristege.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Brstej",
         "internalName": "Bristege",
         "authors": [
@@ -259,7 +259,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cee.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Cee (🇮🇶)",
         "internalName": "Cee",
         "authors": [
@@ -280,7 +280,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/CimaClub.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "CimaClub",
         "internalName": "CimaClub",
         "authors": [
@@ -301,7 +301,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimalight.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Cimalight",
         "internalName": "Cimalight",
         "authors": [
@@ -323,7 +323,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimatn.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Cimatn",
         "internalName": "Cimatn",
         "authors": [
@@ -345,7 +345,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/cinemana.cs3",
         "status": 1,
-        "version": 4,
+        "version": "4",
         "name": "Shabakaty Cinemana (🇮🇶)",
         "internalName": "cinemana",
         "authors": [
@@ -366,7 +366,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/dima-toon.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Dima toon",
         "internalName": "dima-toon",
         "authors": [
@@ -387,7 +387,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Egydead.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Egydead",
         "internalName": "Egydead",
         "authors": [
@@ -410,7 +410,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Elif.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Elif",
         "internalName": "Elif",
         "authors": [
@@ -432,7 +432,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/eseek.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "Eshek",
         "internalName": "eseek",
         "authors": [
@@ -453,7 +453,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Faselhd.cs3",
         "status": 1,
-        "version": 3,
+        "version": "3",
         "name": "Faselhd",
         "internalName": "Faselhd",
         "authors": [
@@ -474,7 +474,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Krmzy.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Krmzy",
         "internalName": "Krmzy",
         "authors": [
@@ -495,7 +495,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Lodynet.cs3",
         "status": 1,
-        "version": 2,
+        "version": "2",
         "name": "LodyNet",
         "internalName": "Lodynet",
         "authors": [
@@ -516,7 +516,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/MyCimaProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Mycima",
         "internalName": "MyCimaProvider",
         "authors": [
@@ -539,7 +539,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Replaymatch.cs3",
         "status": 1,
-        "version": 2,
+        "version": "2",
         "name": "FullMatchShows",
         "internalName": "Replaymatch",
         "authors": [
@@ -561,7 +561,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahid4u.cs3",
         "status": 1,
-        "version": 2,
+        "version": "2",
         "name": "Shahid4u",
         "internalName": "Shahid4u",
         "authors": [
@@ -582,7 +582,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahidwbas.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Shahidwbas",
         "internalName": "Shahidwbas",
         "authors": [
@@ -603,7 +603,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Syria-live.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Syrialive",
         "internalName": "Syria-live",
         "authors": [
@@ -624,7 +624,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Topcinema.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "TopCinema",
         "internalName": "Topcinema",
         "authors": [
@@ -645,7 +645,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TukTukcima.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Tuktukcima",
         "internalName": "TukTukcima",
         "authors": [
@@ -666,7 +666,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TuniflexBlog.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "TuniflexBlog",
         "internalName": "TuniflexBlog",
         "authors": [
@@ -688,7 +688,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Tuniflix.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Tuniflix",
         "internalName": "Tuniflix",
         "authors": [
@@ -710,7 +710,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TVgarden.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "TVgarden(Famelack)",
         "internalName": "TVgarden",
         "authors": [
@@ -732,7 +732,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Viu.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "VIU",
         "internalName": "Viu",
         "authors": [
@@ -754,7 +754,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Wecima.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "WeCima",
         "internalName": "Wecima",
         "authors": [
@@ -775,7 +775,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Witanime.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Witanime",
         "internalName": "Witanime",
         "authors": [
@@ -796,7 +796,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Yacintv.cs3",
         "status": 1,
-        "version": 1,
+        "version": "1",
         "name": "Yacintv",
         "internalName": "Yacintv",
         "authors": [
@@ -818,7 +818,7 @@
     {
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Youtube.cs3",
         "status": 1,
-        "version": 2,
+        "version": "2",
         "name": "YouTube",
         "internalName": "Youtube",
         "authors": [
