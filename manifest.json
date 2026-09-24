@@ -1,8 +1,10 @@
 {
-  "name": "Arabic",
+  "name": "3rabi",
   "version": "1.0.0",
   "scrapers": [
     {
+        "id": "3isk",
+        "filename": "3isk.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/3isk.cs3",
         "status": 1,
         "version": "1",
@@ -24,6 +26,8 @@
         "fileHash": "sha256-00ead28e610d86add9fc0e3fd937c1dfe863b66b0c5686e28bebf8039c7ab86a"
     },
     {
+        "id": "aflaam",
+        "filename": "Aflaam.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aflaam.cs3",
         "status": 1,
         "version": "1",
@@ -45,6 +49,8 @@
         "fileHash": "sha256-c8cbba4f4f36d76907d2b366baa480d9201b16079cef9c3bd85f20cc3049e183"
     },
     {
+        "id": "asia2tv2",
+        "filename": "Aia2tv 2.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aia2tv 2.cs3",
         "status": 1,
         "version": "3",
@@ -67,6 +73,8 @@
         "fileHash": "sha256-1de87a498012cf7252b83f54eeb637a8b4cb482fe7114a1bd66b3adfbae1154e"
     },
     {
+        "id": "akwam",
+        "filename": "Akwam.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Akwam.cs3",
         "status": 1,
         "version": "3",
@@ -88,6 +96,8 @@
         "fileHash": "sha256-cd29b55725e0db70296c1831ea6c6136889f14eb01e57eb6c32afc998e93ecb2"
     },
     {
+        "id": "alooytv",
+        "filename": "Alooytv.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Alooytv.cs3",
         "status": 1,
         "version": "1",
@@ -109,6 +119,8 @@
         "fileHash": "sha256-96607f1f5b4e32f5ce688a75b459ab77d8bad97d08b1a2a2bc5f5dcd54035197"
     },
     {
+        "id": "anim3rb",
+        "filename": "Anim3rb.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anim3rb.cs3",
         "status": 1,
         "version": "1",
@@ -130,6 +142,8 @@
         "fileHash": "sha256-99b3077c567fe62084729d04529f0a0ba831dae8376992b7b0be23f785880f71"
     },
     {
+        "id": "anime-phoenix",
+        "filename": "Anime-Phoenix.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime-Phoenix.cs3",
         "status": 1,
         "version": "1",
@@ -152,6 +166,8 @@
         "fileHash": "sha256-758b3bb9eab01fee2704b281413960512014c45c3612184c20fe62e1ee984ed1"
     },
     {
+        "id": "anime4up",
+        "filename": "Anime4up.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Anime4up.cs3",
         "status": 1,
         "version": "1",
@@ -174,6 +190,8 @@
         "fileHash": "sha256-30ae4aaab6596ed950a55d5a41dfd44d42721c7d1e9af0fea2eabc61a40ece06"
     },
     {
+        "id": "animerco",
+        "filename": "Animerco.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animerco.cs3",
         "status": 1,
         "version": "3",
@@ -195,6 +213,8 @@
         "fileHash": "sha256-795b94f18654b53250a61513711ace519593a3583bfc48a6cf2e0d5af43bbf7f"
     },
     {
+        "id": "animerift",
+        "filename": "AnimeRift.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/AnimeRift.cs3",
         "status": 1,
         "version": "1",
@@ -217,6 +237,8 @@
         "fileHash": "sha256-9ba88208f3fcd51845046737380453ec02dc1d4b48bab326ca7f329d8136e27f"
     },
     {
+        "id": "animewitcher",
+        "filename": "Animewitcher.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Animewitcher.cs3",
         "status": 1,
         "version": "3",
@@ -237,6 +259,8 @@
         "fileHash": "sha256-4c639f9392d46e45f4ee84e8799c810cc1d11fba2f13ff7e32865c71987c2fb4"
     },
     {
+        "id": "bristege",
+        "filename": "Bristege.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Bristege.cs3",
         "status": 1,
         "version": "1",
@@ -257,6 +281,8 @@
         "fileHash": "sha256-17c6074460176b5547d0d242c09727c427bedae8bfe2529693e60f0b0348cb31"
     },
     {
+        "id": "cee",
+        "filename": "Cee.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cee.cs3",
         "status": 1,
         "version": "1",
@@ -278,6 +304,8 @@
         "fileHash": "sha256-131f942fa11bc89677543280a02ae2a9e2e19bc5c4d73fa3636ae8c5444c4f46"
     },
     {
+        "id": "cimaclub",
+        "filename": "CimaClub.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/CimaClub.cs3",
         "status": 1,
         "version": "1",
@@ -299,6 +327,8 @@
         "fileHash": "sha256-2cfbf3abb5892b22f299ac8b5ca7711c073ed38a930c91748e696fbfdd885052"
     },
     {
+        "id": "cimalight",
+        "filename": "Cimalight.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimalight.cs3",
         "status": 1,
         "version": "1",
@@ -321,6 +351,8 @@
         "fileHash": "sha256-41def442115b7018006e81b3184a3ab99ba75552900a9e043ac257a1bd18651a"
     },
     {
+        "id": "cimatn",
+        "filename": "Cimatn.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Cimatn.cs3",
         "status": 1,
         "version": "1",
@@ -343,6 +375,8 @@
         "fileHash": "sha256-1540f9de487a50bf0b67d2a79de14314439fda95c1b2df51ca385b6c15402a50"
     },
     {
+        "id": "cinemana",
+        "filename": "cinemana.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/cinemana.cs3",
         "status": 1,
         "version": "4",
@@ -364,6 +398,8 @@
         "fileHash": "sha256-5e1efeda9d8770f78eeefab77fc1c0454379496156cdfa8f939277124c1c2ece"
     },
     {
+        "id": "dima-toon",
+        "filename": "dima-toon.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/dima-toon.cs3",
         "status": 1,
         "version": "1",
@@ -385,6 +421,8 @@
         "fileHash": "sha256-048fc02cd74f7d43a2618a563a17c3727a2a801accb20f9e1cf13ef6e68619ef"
     },
     {
+        "id": "egydead",
+        "filename": "Egydead.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Egydead.cs3",
         "status": 1,
         "version": "1",
@@ -408,6 +446,8 @@
         "fileHash": "sha256-837684d369f62ef16deda7e23eb460eac3aae6b8f14183aef700bd203e9ccb3d"
     },
     {
+        "id": "elif",
+        "filename": "Elif.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Elif.cs3",
         "status": 1,
         "version": "1",
@@ -430,6 +470,8 @@
         "fileHash": "sha256-139d4cf90e5346739b39f72e33d83194fdbcc9601ac64348f1161dcab636e163"
     },
     {
+        "id": "eseek",
+        "filename": "eseek.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/eseek.cs3",
         "status": 1,
         "version": "3",
@@ -451,6 +493,8 @@
         "fileHash": "sha256-70bf9c63b28da3e848ede393cf592fa51d10f42b5518fac3e6c063662c17b166"
     },
     {
+        "id": "faselhd",
+        "filename": "Faselhd.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Faselhd.cs3",
         "status": 1,
         "version": "3",
@@ -472,6 +516,8 @@
         "fileHash": "sha256-ffdcb7efc760f82032f2d2822a8c1e985e0bba8e763be3925b2884a9b6a81de9"
     },
     {
+        "id": "krmzy",
+        "filename": "Krmzy.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Krmzy.cs3",
         "status": 1,
         "version": "1",
@@ -493,6 +539,8 @@
         "fileHash": "sha256-785b7fc9326398763dd7343b90658e28b5aae1f7ce3fa1de72fc09a67e6b99e6"
     },
     {
+        "id": "lodynet",
+        "filename": "Lodynet.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Lodynet.cs3",
         "status": 1,
         "version": "2",
@@ -514,6 +562,8 @@
         "fileHash": "sha256-56a9ab9dc9f8e2c05ce66a0a572591581e47575711c378c1d1929c7244ca9f73"
     },
     {
+        "id": "mycimaprovider",
+        "filename": "MyCimaProvider.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/MyCimaProvider.cs3",
         "status": 1,
         "version": "1",
@@ -537,6 +587,8 @@
         "fileHash": "sha256-ff8e09bb07cb94fad7216e8c6a29bdff3d5758e6f7f1c4b68bacad18935bfe5a"
     },
     {
+        "id": "replaymatch",
+        "filename": "Replaymatch.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Replaymatch.cs3",
         "status": 1,
         "version": "2",
@@ -559,6 +611,8 @@
         "fileHash": "sha256-9702287e1acdbc6556a5f43350aac49df0fc323c2bb50ecc55f0f9173851e147"
     },
     {
+        "id": "shahid4u",
+        "filename": "Shahid4u.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahid4u.cs3",
         "status": 1,
         "version": "2",
@@ -580,6 +634,8 @@
         "fileHash": "sha256-4b96b8b6f45a5e2f630ae2ef8d5f8e40f2037a927dbc5275eae30dc7b63b35af"
     },
     {
+        "id": "shahidwbas",
+        "filename": "Shahidwbas.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Shahidwbas.cs3",
         "status": 1,
         "version": "1",
@@ -601,6 +657,8 @@
         "fileHash": "sha256-f89172fe028aa79efa3ca5a4c48ddb5080548fb430528ee2f42a56f89280895d"
     },
     {
+        "id": "syria-live",
+        "filename": "Syria-live.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Syria-live.cs3",
         "status": 1,
         "version": "1",
@@ -622,6 +680,8 @@
         "fileHash": "sha256-48b9fa4a88c0372a6c2c756a5502bf21e8f01c7215ab2dc3daebfe259eb8e955"
     },
     {
+        "id": "topcinema",
+        "filename": "Topcinema.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Topcinema.cs3",
         "status": 1,
         "version": "1",
@@ -643,6 +703,8 @@
         "fileHash": "sha256-04fe8195714a8ef8c38545ad8c135b219dfa2b1e2728ba70da82aa509964f69c"
     },
     {
+        "id": "tuktukcima",
+        "filename": "TukTukcima.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TukTukcima.cs3",
         "status": 1,
         "version": "1",
@@ -664,6 +726,8 @@
         "fileHash": "sha256-544bdb138d7644b6da28471fba9f56b50cc57fb877a310a0108f891ab0ab855e"
     },
     {
+        "id": "tuniflexblog",
+        "filename": "TuniflexBlog.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TuniflexBlog.cs3",
         "status": 1,
         "version": "1",
@@ -686,6 +750,8 @@
         "fileHash": "sha256-fb5f3d6a382d5f161d8c0bcaad709a494c3b8acb0579bb491f6c2dcb28771224"
     },
     {
+        "id": "tuniflix",
+        "filename": "Tuniflix.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Tuniflix.cs3",
         "status": 1,
         "version": "1",
@@ -708,6 +774,8 @@
         "fileHash": "sha256-14a4553a97f20063f294bf38ab70317e54e496d94a4923ebad830dc966e63f88"
     },
     {
+        "id": "tvgarden",
+        "filename": "TVgarden.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/TVgarden.cs3",
         "status": 1,
         "version": "1",
@@ -730,6 +798,8 @@
         "fileHash": "sha256-2e81fb135538fb427a6ea20d7a9a4472d240826136088c0deb09352a5c24ee5e"
     },
     {
+        "id": "viu",
+        "filename": "Viu.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Viu.cs3",
         "status": 1,
         "version": "1",
@@ -752,6 +822,8 @@
         "fileHash": "sha256-9ff5e88654aa3d58257d681042b74119e55e0f6417b4774532797e923ca63e40"
     },
     {
+        "id": "wecima",
+        "filename": "Wecima.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Wecima.cs3",
         "status": 1,
         "version": "1",
@@ -773,6 +845,8 @@
         "fileHash": "sha256-98b3b61a6e305f48c154cbca21d6bc162d6514dab8ab6d8253978a1422924fdb"
     },
     {
+        "id": "witanime",
+        "filename": "Witanime.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Witanime.cs3",
         "status": 1,
         "version": "1",
@@ -794,6 +868,8 @@
         "fileHash": "sha256-82920869d407a954b22353155231f4f5aa345d39d5ad3a09ce0f73318d3e0f2d"
     },
     {
+        "id": "yacintv",
+        "filename": "Yacintv.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Yacintv.cs3",
         "status": 1,
         "version": "1",
@@ -816,6 +892,8 @@
         "fileHash": "sha256-440fb181a313ab67f7d420f4a657eb02dcd65a0aa75df28db4e3994b5ba72c1d"
     },
     {
+        "id": "youtube",
+        "filename": "Youtube.cs3",
         "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Youtube.cs3",
         "status": 1,
         "version": "2",
