@@ -1,0 +1,341 @@
+{
+  "name": "Arabic Plugins",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "akwamprovider",
+      "filename": "AkwamProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/AkwamProvider.cs3",
+      "status": 1,
+      "version": "2",
+      "name": "AkwamProvider",
+      "internalName": "AkwamProvider",
+      "authors": [
+        "Blatzar"
+      ],
+      "description": "",
+      "fileSize": 13712,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "anime4uppack",
+      "filename": "Anime4upPack.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/Anime4upPack.cs3",
+      "status": 1,
+      "version": "1",
+      "name": "Anime4upPack",
+      "internalName": "Anime4upPack",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "This pack contains Anime4up and Witanime",
+      "fileSize": 15389,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "Anime",
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "animeblkomprovider",
+      "filename": "AnimeBlkomProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/AnimeBlkomProvider.cs3",
+      "status": 1,
+      "version": "2",
+      "name": "AnimeBlkomProvider",
+      "internalName": "AnimeBlkomProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 13332,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "Anime",
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "animeiatprovider",
+      "filename": "AnimeiatProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/AnimeiatProvider.cs3",
+      "status": 1,
+      "version": "2",
+      "name": "AnimeiatProvider",
+      "internalName": "AnimeiatProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 20624,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "arabseedprovider",
+      "filename": "ArabSeedProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/ArabSeedProvider.cs3",
+      "status": 1,
+      "version": "3",
+      "name": "ArabSeedProvider",
+      "internalName": "ArabSeedProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 16392,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "cimanowprovider",
+      "filename": "CimaNowProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/CimaNowProvider.cs3",
+      "status": 1,
+      "version": "1",
+      "name": "CimaNowProvider",
+      "internalName": "CimaNowProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 14700,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "egydeadprovider",
+      "filename": "EgyDeadProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/EgyDeadProvider.cs3",
+      "status": 1,
+      "version": "4",
+      "name": "EgyDeadProvider",
+      "internalName": "EgyDeadProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 13531,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "extractors",
+      "filename": "Extractors.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/Extractors.cs3",
+      "status": 1,
+      "version": "1",
+      "name": "Extractors",
+      "internalName": "Extractors",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "This is required to be downloaded.",
+      "fileSize": 19921,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "",
+      "apiVersion": 1
+    },
+    {
+      "id": "fajershowprovider",
+      "filename": "FajerShowProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FajerShowProvider.cs3",
+      "status": 1,
+      "version": "3",
+      "name": "FajerShowProvider",
+      "internalName": "FajerShowProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 16939,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "faselhdprovider",
+      "filename": "FaselHDProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FaselHDProvider.cs3",
+      "status": 1,
+      "version": "7",
+      "name": "FaselHDProvider",
+      "internalName": "FaselHDProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 16194,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "fushaarprovider",
+      "filename": "FushaarProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FushaarProvider.cs3",
+      "status": 1,
+      "version": "2",
+      "name": "FushaarProvider",
+      "internalName": "FushaarProvider",
+      "authors": [
+        "Spoonge"
+      ],
+      "description": "",
+      "fileSize": 11561,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "Movie"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "gateanimeprovider",
+      "filename": "GateAnimeProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/GateAnimeProvider.cs3",
+      "status": 1,
+      "version": "3",
+      "name": "GateAnimeProvider",
+      "internalName": "GateAnimeProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 11621,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "Anime",
+        "Movie"
+      ],
+      "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+      "apiVersion": 1
+    },
+    {
+      "id": "movizlandprovider",
+      "filename": "MovizlandProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/MovizlandProvider.cs3",
+      "status": 1,
+      "version": "5",
+      "name": "MovizlandProvider",
+      "internalName": "MovizlandProvider",
+      "authors": [
+        "Spoonge"
+      ],
+      "description": "Not recommended for series.",
+      "fileSize": 18060,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=movizland.online&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "mycimaprovider",
+      "filename": "MyCimaProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/MyCimaProvider.cs3",
+      "status": 1,
+      "version": "8",
+      "name": "MyCimaProvider",
+      "internalName": "MyCimaProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 19538,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
+      "apiVersion": 1
+    },
+    {
+      "id": "shahid4uprovider",
+      "filename": "Shahid4uProvider.cs3",
+      "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/Shahid4uProvider.cs3",
+      "status": 1,
+      "version": "7",
+      "name": "Shahid4uProvider",
+      "internalName": "Shahid4uProvider",
+      "authors": [
+        "ImZaw"
+      ],
+      "description": "",
+      "fileSize": 15333,
+      "repositoryUrl": "https://github.com/yoyzo/arab",
+      "language": "ar",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+      "apiVersion": 1
+    }
+  ]
+}
